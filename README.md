@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murillomasson
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Java, Python, HTML
+- 🌱 I’m currently learning Java, Python, Django, SQL, HTML
 - 📫 How to reach me: murillomguapo@gmail.com
 
 <!---
