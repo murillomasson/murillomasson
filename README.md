@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on **freelance projets**
 
+- 👨‍💻 Here you are going to see **Python** and some **Java** respositories
+
 - 🌱 I’m currently learning **Django, Flask, FastAPI; Spring Boot; Sqlite3; MongoDB; React.js**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/murillomasson](https://www.linkedin.com/in/murillomasson)
 
-- 📫 How to reach me **murillomguapo@gmail.com**
+- 📫 How to reach me: **murillomguapo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
